@@ -24,3 +24,9 @@ dropbear and tinyssh are small implementations.
 
 - https://tinyssh.org/ "TinySSH has less than 100000 words of code",
   "all memory statically allocated (less than 1MB)"
+
+Kragen Javier Sitaker suggests looking at NaCl and TweetNaCL.
+
+- http://nacl.cr.yp.to/
+
+- http://tweetnacl.cr.yp.to/
